@@ -244,8 +244,8 @@ class DefectFinderApp(QMainWindow):
                 label="Non-Mechanical Defect",
                 color="orange",
             )
-        ax.set_xlabel("Position (m)")
-        ax.set_ylabel("Ic [A]")
+        ax.set_xlabel("x axis")
+        ax.set_ylabel("y axis")
         ax.legend()
         self.figure.tight_layout()
         self.canvas.draw()
