@@ -1,4 +1,4 @@
-### Defect Finder
+# Defect Finder
 
 **Defect Finder** is a Python-based GUI application designed for detecting and analyzing mechanical and non-mechanical defects in data. It leverages PyQt5 for an intuitive and interactive user interface, enabling users to visualize data, identify abrupt changes, and analyze periodicities between detected defects. The tool is designed for both research and industrial applications, providing a streamlined workflow for defect identification and statistical analysis.
 
